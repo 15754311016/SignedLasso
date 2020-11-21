@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Pycharm/machinelearn/get_user_representation/.idea/get_user_representation.iml" filepath="D:/Pycharm/machinelearn/get_user_representation/.idea/get_user_representation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyHSICLasso-master/.idea/pyHSICLasso-master.iml" filepath="$PROJECT_DIR$/pyHSICLasso-master/.idea/pyHSICLasso-master.iml" />
+    </modules>
+  </component>
+</project>
